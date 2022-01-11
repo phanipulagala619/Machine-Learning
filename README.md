@@ -1,2 +1,2 @@
 # Machine-Learning
-This Repository consists some of the machine learning models are developed manually with the use of any libraries to learn how the algorithms work and to get the indepth undestanding of machine learning models
+This repository contains various machine learning models that were developed manually with out the help of any external libraries in order to learn how algorithms function and to have a thorough understanding of machine learning models. 
