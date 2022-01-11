@@ -1,2 +1,2 @@
 # Machine-Learning
-Univariate Linear Regressiona and Multivariate Linear regression models are developed with out using any library to learn how it works 
+This Repository consists some of the machine learning models are developed manually with the use of any libraries to learn how the algorithms work and to get the indepth undestanding of machine learning models
